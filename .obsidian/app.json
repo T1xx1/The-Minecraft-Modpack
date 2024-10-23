@@ -1,0 +1,13 @@
+{
+  "foldHeading": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "tabSize": 3,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "showInlineTitle": false
+}
