@@ -13,6 +13,8 @@
 
 ## Mods & resource packs list
 
-| Mods                     |
-| ------------------------ |
-| [Create](docs/Create.md) |
+| Mods                                                           |
+| -------------------------------------------------------------- |
+| [Create](docs/Create.md)                                       |
+| [Create Steam 'n' Rails](docs/Create%20Steam%20'n'%20Rails.md) |
+
