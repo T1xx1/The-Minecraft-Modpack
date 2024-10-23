@@ -17,4 +17,5 @@
 | -------------------------------------------------------------- |
 | [Create](docs/Create.md)                                       |
 | [Create Steam 'n' Rails](docs/Create%20Steam%20'n'%20Rails.md) |
+| [Just Enough Items](docs/Just%20Enough%20Items.md)             |
 
