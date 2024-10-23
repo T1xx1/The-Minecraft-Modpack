@@ -19,4 +19,5 @@
 | [Create Steam 'n' Rails](docs/Create%20Steam%20'n'%20Rails.md) |
 |       [Just Enough Items](docs/Just%20Enough%20Items.md)       |
 |        [Biomes O' Plenty](docs/Biomes%20O'%20Plenty.md)        |
+|                     [Sawmill](docs/Sawmill.md)                      |
 
