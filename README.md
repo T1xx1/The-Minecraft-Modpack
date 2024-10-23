@@ -1,2 +1,2 @@
-# Minecraft+plus
- A + Minecraft modpack
+# Minecraft+
+> A + Minecraft modpack
