@@ -34,4 +34,5 @@
 |                [Xaero's World Map](docs/Xaero's%20World%20Map.md)                |
 |          [Colorful Containers GUI](docs/Colorful%20Containers%20GUI.md)          |
 |                    [Chunk Animator](docs/Chunk%20Animator.md)                    |
+| [Friends & Foes Flowery Mooblooms](Friends%20&%20Foes%20Flowery%20Mooblooms.md)  |
 
