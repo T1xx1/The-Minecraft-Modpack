@@ -32,4 +32,5 @@
 |                  [Fresh Animations](docs/Fresh%20Animations.md)                  |
 |        [Beaitiful Enchanted Books](docs/Beaitiful%20Enchanted%20Books.md)        |
 |                [Xaero's World Map](docs/Xaero's%20World%20Map.md)                |
+|          [Colorful Containers GUI](docs/Colorful%20Containers%20GUI.md)          |
 
