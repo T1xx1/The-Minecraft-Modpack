@@ -25,4 +25,5 @@
 |          [Xaero's Minimap](docs/Xaero's%20Minimap.md)          |
 |                  [BetterF3](docs/BetterF3.md)                  |
 |               [Apple Skin](docs/Apple%20Skin.md)               |
+|                      [Jade](docs/Jade.md)                      |
 
