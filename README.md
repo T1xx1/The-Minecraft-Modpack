@@ -30,4 +30,5 @@
 |                [Excessive Building](docs/Excessive%20Building.md)                |
 | [Create Let The Adventure Begin](docs/Create%20Let%20The%20Adventure%20Begin.md) |
 |                  [Fresh Animations](docs/Fresh%20Animations.md)                  |
+|        [Beaitiful Enchanted Books](docs/Beaitiful%20Enchanted%20Books.md)        |
 
