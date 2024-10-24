@@ -21,4 +21,5 @@
 |        [Biomes O' Plenty](docs/Biomes%20O'%20Plenty.md)        |
 |                   [Sawmill](docs/Sawmill.md)                   |
 |          [Friends & Foes](docs/Friends%20&%20Foes.md)          |
+|   [What are they up to](docs/What%20are%20they%20up%20to.md)   |
 
