@@ -10,3 +10,5 @@
 ## Dependencies
 - [Puzzles Lib](Puzzles%20Lib.md)
 
+## File
+![StrawStatues-v21.1.0-1.21.1-NeoForge](../src/mods/StrawStatues-v21.1.0-1.21.1-NeoForge.jar)
