@@ -33,6 +33,7 @@
 |                [Just Enough Items](docs/Just%20Enough%20Items.md)                |
 |                            [Sawmill](docs/Sawmill.md)                            |
 |             [Simple Grass Flowers](docs/Simple%20Grass%20Flowers.md)             |
+|                     [Straw Statues](docs/Straw%20Statues.md)                     |
 |                        [The Aether](docs/The%20Aether.md)                        |
 |              [Universal Bone Meal](docs/Universal%20Bone%20Meal.md)              |
 |            [What are they up to](docs/What%20are%20they%20up%20to.md)            |
