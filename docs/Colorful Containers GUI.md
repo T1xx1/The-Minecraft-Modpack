@@ -3,7 +3,7 @@ aliases:
   - CC
 ---
 
-# Colorful Containers GUI
+# Colourful Containers GUI
 
 ![](https://i.imgur.com/v7ETu6j.png)
 ![](https://media.forgecdn.net/attachments/956/572/5w.png)
