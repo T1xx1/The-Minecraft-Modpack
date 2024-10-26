@@ -1,7 +1,7 @@
 # Minecraft+
 > A + Minecraft modpack
 
-![thumbnail](_/assets/thumbnail.png)
+![](_/assets/thumbnail.png)
 
 | Minecraft ver |
 | ------------- |
