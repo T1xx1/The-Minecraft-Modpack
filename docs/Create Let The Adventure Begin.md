@@ -1,5 +1,7 @@
 # Create: Let The Adventure Begin
 
+> [!missing] Outdated: missing newer version for Minecraft `1.21.1`
+
 ![](https://cdn.modrinth.com/data/cached_images/cbd5691543d0c5e54ee8c5a61de63c6ed36442d9.png)
 ![](https://youtu.be/7DPhYA4PdCM)
 
