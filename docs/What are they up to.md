@@ -12,6 +12,6 @@ aliases:
 | ------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | `1.21.1`      | `1.1.4` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) [Modirinth](https://modrinth.com/mod/what-are-they-up-to) | [GitHub](https://github.com/Corosauce/WATUT) |
 
-| Dependencies | Ver     | Source                                                                                                             | Repo                                            |
-| ------------ | ------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| CoroUtil     | `1.3.8` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/coroutil) [Modirinth](https://modrinth.com/mod/coroutil) | [GitHub](https://github.com/Corosauce/CoroUtil) |
+| Dependencies            |
+| ----------------------- |
+| [CoroUtil](CoroUtil.md) |

@@ -7,6 +7,6 @@
 | ------------- | ------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | `1.21.1`      | `2.3.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-foods) [Modirinth](https://modrinth.com/mod/golden-foods!) | [GitHub](https://github.com/Cursee-Development/Golden-Foods) |
 
-| Dependencies | Ver     | Source                                                                                                           | Repo                                                     |
-| ------------ | ------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| MonoLib      | `1.4.1` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/monolib) [Modirinth](https://modrinth.com/mod/monolib) | [GitHub](https://github.com/Cursee-Development/Mono-Lib) |
+| Dependencies          |
+| --------------------- |
+| [MonoLib](MonoLib.md) |

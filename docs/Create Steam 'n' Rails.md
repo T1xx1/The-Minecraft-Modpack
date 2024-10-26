@@ -10,6 +10,6 @@
 | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | `1.20.1`      | `1.6.7` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) [Modirinth](https://modrinth.com/mod/create-steam-n-rails) | [GitHub](https://github.com/Layers-of-Railways/Railway) |
 
-| Dependencies        | Ver | Source | GitHub |
-| ------------------- | --- | ------ | ------ |
-| [Create](Create.md) | <-  | <-     | <-     |
+| Dependencies        |
+| ------------------- |
+| [Create](Create.md) |
