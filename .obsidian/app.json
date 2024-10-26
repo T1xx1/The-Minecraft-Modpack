@@ -9,5 +9,6 @@
   "tabSize": 3,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_/assets",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "focusNewTab": false
 }
