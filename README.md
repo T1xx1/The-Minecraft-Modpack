@@ -28,6 +28,7 @@
 |                  [Fresh Animations](docs/Fresh%20Animations.md)                  |
 |                   [Friends & Foes](docs/Friends%20&%20Foes.md)                   |
 | [Friends & Foes Flowery Mooblooms](Friends%20&%20Foes%20Flowery%20Mooblooms.md)  |
+|                     [Golden Foods!](docs/Golden%20Foods!.md)                     |
 |                               [Jade](docs/Jade.md)                               |
 |                [Just Enough Items](docs/Just%20Enough%20Items.md)                |
 |                            [Sawmill](docs/Sawmill.md)                            |
