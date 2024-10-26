@@ -8,6 +8,6 @@
   "showUnsupportedFiles": true,
   "tabSize": 3,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "_/assets",
   "showInlineTitle": false
 }
