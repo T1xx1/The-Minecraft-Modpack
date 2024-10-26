@@ -1,5 +1,5 @@
-# Minecraft+
-> A + Minecraft modpack
+# The Minecraft Modpack
+> Another Minecraft modpack
 
 ![](_/assets/thumbnail.png)
 
