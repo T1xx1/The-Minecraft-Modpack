@@ -1,9 +1,12 @@
 #
 
-| Minecraft ver | Ver | Source         | Repo       |
-| ------------- | --- | -------------- | ---------- |
-| ``            | ``  | [CurseForge]() | [GitHub]() |
+{logo}
+{img}
 
-| Dependencies | Ver | Source         | Repo       |
-| ------------ | --- | -------------- | ---------- |
-|              | ``  | [CurseForge]() | [GitHub]() |
+| Minecraft ver | Ver | Source                       | Repo       |
+| ------------- | --- | ---------------------------- | ---------- |
+| ``            | ``  | [CurseForge]() [Modirinth]() | [GitHub]() |
+
+| Dependencies | Ver | Source                       | Repo       |
+| ------------ | --- | ---------------------------- | ---------- |
+|              | ``  | [CurseForge]() [Modirinth]() | [GitHub]() |
