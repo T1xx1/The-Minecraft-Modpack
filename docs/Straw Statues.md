@@ -7,6 +7,6 @@
 | ------------- | -------- | ------------------------------------------------------------------ | ---------- |
 | `1.21.1`      | `21.1.0` | [CurseForge]()<br>[Modirinth](https://modrinth.com/mod/straw-statues) | [GitHub]() |
 
-| Dependencies                    |
-| ------------------------------- |
-| [Puzzles Lib](Puzzles%20Lib.md) |
+## Dependencies
+- [Puzzles Lib](Puzzles%20Lib.md)
+

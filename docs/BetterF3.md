@@ -7,6 +7,6 @@
 | ------------- | -------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
 | `1.21.1`      | `11.0.2` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)<br>[Modirinth](https://modrinth.com/mod/betterf3) | [GitHub](https://github.com/TreyRuffy/BetterF3) |
 
-| Dependencies                                |
-| ------------------------------------------- |
-| [Cloth Config API](Cloth%20Config%20API.md) |
+## Dependencies
+- [Cloth Config API](Cloth%20Config%20API.md)
+

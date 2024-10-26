@@ -12,6 +12,6 @@ aliases:
 | ------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | `1.21.1`      | `1.1.4` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)<br>[Modirinth](https://modrinth.com/mod/what-are-they-up-to) | [GitHub](https://github.com/Corosauce/WATUT) |
 
-| Dependencies            |
-| ----------------------- |
-| [CoroUtil](CoroUtil.md) |
+## Dependencies
+- [CoroUtil](CoroUtil.md)
+

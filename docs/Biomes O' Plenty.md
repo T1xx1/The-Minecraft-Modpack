@@ -7,7 +7,7 @@
 | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | `1.21.1`      | `21.1.0.6` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)<br>[Modirinth](https://modrinth.com/mod/biomes-o-plenty) | [GitHub](https://github.com/Glitchfiend/BiomesOPlenty) |
 
-| Dependencies                    |
-| ------------------------------- |
-| [GlitchCore](GlitchCore.md)     |
-| [TerraBlender](TerraBlender.md) |
+## Dependencies
+- [GlitchCore](GlitchCore.md)
+- [TerraBlender](TerraBlender.md)
+
