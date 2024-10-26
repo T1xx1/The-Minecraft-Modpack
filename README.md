@@ -16,7 +16,6 @@
 |                                       Mods                                       |
 | :------------------------------------------------------------------------------: |
 |                        [Apple Skin](docs/Apple%20Skin.md)                        |
-|        [Beautiful Enchanted Books](docs/Beautiful%20Enchanted%20Books.md)        |
 |                           [BetterF3](docs/BetterF3.md)                           |
 |                 [Biomes O' Plenty](docs/Biomes%20O'%20Plenty.md)                 |
 |                    [Chunk Animator](docs/Chunk%20Animator.md)                    |
