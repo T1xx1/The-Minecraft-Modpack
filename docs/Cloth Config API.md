@@ -4,4 +4,4 @@
 
 | Minecraft ver | Ver        | Source                                                                                                                     | Repo                                                |
 | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| `1.21.1`      | `15.0.140` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) [Modirinth](https://modrinth.com/mod/cloth-config) | [GitHub](https://github.com/shedaniel/cloth-config) |
+| `1.21.1`      | `15.0.140` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br>[Modirinth](https://modrinth.com/mod/cloth-config) | [GitHub](https://github.com/shedaniel/cloth-config) |

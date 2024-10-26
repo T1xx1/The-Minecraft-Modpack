@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver        | Source                                                                                                                           | Repo                                                   |
 | ------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| `1.21.1`      | `21.1.0.6` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) [Modirinth](https://modrinth.com/mod/biomes-o-plenty) | [GitHub](https://github.com/Glitchfiend/BiomesOPlenty) |
+| `1.21.1`      | `21.1.0.6` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)<br>[Modirinth](https://modrinth.com/mod/biomes-o-plenty) | [GitHub](https://github.com/Glitchfiend/BiomesOPlenty) |
 
 | Dependencies                    |
 | ------------------------------- |

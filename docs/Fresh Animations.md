@@ -5,4 +5,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                            | Repo |
 | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| `1.21.1`      | `1.9.2` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) [Modirinth](https://modrinth.com/resourcepack/fresh-animations) | //   |
+| `1.21.1`      | `1.9.2` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)<br>[Modirinth](https://modrinth.com/resourcepack/fresh-animations) | //   |

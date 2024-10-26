@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                      | Repo                                                         |
 | ------------- | ------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| `1.21.1`      | `2.3.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-foods) [Modirinth](https://modrinth.com/mod/golden-foods!) | [GitHub](https://github.com/Cursee-Development/Golden-Foods) |
+| `1.21.1`      | `2.3.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/golden-foods)<br>[Modirinth](https://modrinth.com/mod/golden-foods!) | [GitHub](https://github.com/Cursee-Development/Golden-Foods) |
 
 | Dependencies          |
 | --------------------- |

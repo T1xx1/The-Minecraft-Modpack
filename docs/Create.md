@@ -7,4 +7,4 @@
 
 | Minecraft ver | Ver      | Source                                                                                                         | Repo                                                   |
 | ------------- | -------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| `1.20.1`      | `0.5.1j` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create) [Modirinth](https://modrinth.com/mod/create) | [GitHub](https://github.com/Creators-of-Create/Create) |
+| `1.20.1`      | `0.5.1j` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)<br>[Modirinth](https://modrinth.com/mod/create) | [GitHub](https://github.com/Creators-of-Create/Create) |

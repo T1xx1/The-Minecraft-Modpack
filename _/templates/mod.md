@@ -3,9 +3,9 @@
 {logo}
 {img}
 
-| Minecraft ver | Ver | Source                       | Repo       |
-| ------------- | --- | ---------------------------- | ---------- |
-| ``            | ``  | [CurseForge]() [Modirinth]() | [GitHub]() |
+| Minecraft ver | Ver | Source                           | Repo       |
+| ------------- | --- | -------------------------------- | ---------- |
+| ``            | ``  | [CurseForge]()<br>[Modirinth]() | [GitHub]() |
 
 | Dependencies |
 | ------------ |

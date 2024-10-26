@@ -7,4 +7,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                         | Repo                                                    |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| `1.20.4`      | `1.5.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aether) [Modirinth](https://modrinth.com/mod/aether) | [GitHub](https://github.com/The-Aether-Team/The-Aether) |
+| `1.20.4`      | `1.5.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aether)<br>[Modirinth](https://modrinth.com/mod/aether) | [GitHub](https://github.com/The-Aether-Team/The-Aether) |

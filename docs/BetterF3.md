@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver      | Source                                                                                                             | Repo                                            |
 | ------------- | -------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| `1.21.1`      | `11.0.2` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3) [Modirinth](https://modrinth.com/mod/betterf3) | [GitHub](https://github.com/TreyRuffy/BetterF3) |
+| `1.21.1`      | `11.0.2` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)<br>[Modirinth](https://modrinth.com/mod/betterf3) | [GitHub](https://github.com/TreyRuffy/BetterF3) |
 
 | Dependencies                                |
 | ------------------------------------------- |

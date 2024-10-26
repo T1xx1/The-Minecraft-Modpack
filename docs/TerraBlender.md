@@ -4,4 +4,4 @@
 
 | Minecraft ver | Ver       | Source                                                                                                                              | Repo                                                  |
 | ------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| `1.21.1`      | `4.1.0.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge) [Modirinth](https://modrinth.com/mod/terrablender) | [GitHub](https://github.com/Glitchfiend/TerraBlender) |
+| `1.21.1`      | `4.1.0.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge)<br>[Modirinth](https://modrinth.com/mod/terrablender) | [GitHub](https://github.com/Glitchfiend/TerraBlender) |

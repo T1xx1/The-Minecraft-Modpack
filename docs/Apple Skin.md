@@ -5,4 +5,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                               | Repo                                             |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.21.1`      | `3.0.5` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) [Modirinth](https://modrinth.com/mod/appleskin) | [GitHub](https://github.com/squeek502/AppleSkin) |
+| `1.21.1`      | `3.0.5` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)<br>[Modirinth](https://modrinth.com/mod/appleskin) | [GitHub](https://github.com/squeek502/AppleSkin) |

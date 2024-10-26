@@ -4,4 +4,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                        | Repo                                                 |
 | ------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| `1.21.1`      | `1.3.7` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-animator) [Modirinth](https://modrinth.com/mod/chunkanimator) | [GitHub](https://github.com/Harleyoc1/ChunkAnimator) |
+| `1.21.1`      | `1.3.7` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunk-animator)<br>[Modirinth](https://modrinth.com/mod/chunkanimator) | [GitHub](https://github.com/Harleyoc1/ChunkAnimator) |

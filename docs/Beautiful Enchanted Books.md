@@ -10,4 +10,4 @@ aliases:
 
 | Minecraft ver | Ver     | Source                                                                                                                                                              | Repo |
 | ------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| `1.21.1`      | `3.0.0` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books) [Modirinth](https://modrinth.com/resourcepack/beautiful-enchanted-books) | //   |
+| `1.21.1`      | `3.0.0` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/beautiful-enchanted-books)<br>[Modirinth](https://modrinth.com/resourcepack/beautiful-enchanted-books) | //   |

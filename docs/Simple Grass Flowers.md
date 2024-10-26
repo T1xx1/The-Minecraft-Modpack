@@ -5,4 +5,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                                    | Repo       |
 | ------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| `1.21`        | `1.8.1` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/simple-grass-flowers) [Modirinth](https://modrinth.com/resourcepack/simple-grass-flowers) | [GitHub]() |
+| `1.21`        | `1.8.1` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/simple-grass-flowers)<br>[Modirinth](https://modrinth.com/resourcepack/simple-grass-flowers) | [GitHub]() |

@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver      | Source                                                                                             | Repo                                                 |
 | ------------- | -------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| `1.21.1`      | `21.1.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge) [Modirinth](https://modrinth.com/mod/universal-bone-meal) | [GitHub](https://github.com/Fuzss/universalbonemeal) |
+| `1.21.1`      | `21.1.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge)<br>[Modirinth](https://modrinth.com/mod/universal-bone-meal) | [GitHub](https://github.com/Fuzss/universalbonemeal) |
 
 | Dependencies                    |
 | ------------------------------- |

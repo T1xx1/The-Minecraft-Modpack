@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                                                              | Repo                                                                     |
 | ------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| `1.21.1`      | `2.0.2` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-flowery-mooblooms-forge) [Modirinth](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric) | [GitHub](https://github.com/Faboslav/friends-and-foes-flowery-mooblooms) |
+| `1.21.1`      | `2.0.2` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-flowery-mooblooms-forge)<br>[Modirinth](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric) | [GitHub](https://github.com/Faboslav/friends-and-foes-flowery-mooblooms) |
 
 | Dependencies                                 |
 | -------------------------------------------- |

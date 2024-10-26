@@ -7,4 +7,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                 | Repo                                                    |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| `1.20.1`      | `3.0.1` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/excessive-building) [Modirinth](https://modrinth.com/mod/excessive-building) | [GitHub](https://github.com/Yirmiri/Excessive-Building) |
+| `1.20.1`      | `3.0.1` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/excessive-building)<br>[Modirinth](https://modrinth.com/mod/excessive-building) | [GitHub](https://github.com/Yirmiri/Excessive-Building) |

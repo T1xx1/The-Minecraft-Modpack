@@ -7,7 +7,7 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                                         | Repo                                                                 |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| `1.20.1`      | `2.2.3` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-let-the-adventure-begin) [Modirinth](https://modrinth.com/mod/create-let-the-adventure-begin) | [GitHub](https://github.com/not-jun0/Create-Let-The-Adventure-Begin) |
+| `1.20.1`      | `2.2.3` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-let-the-adventure-begin)<br>[Modirinth](https://modrinth.com/mod/create-let-the-adventure-begin) | [GitHub](https://github.com/not-jun0/Create-Let-The-Adventure-Begin) |
 
 | Dependencies        |
 | ------------------- |

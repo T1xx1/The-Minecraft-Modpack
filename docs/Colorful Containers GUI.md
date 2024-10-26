@@ -10,4 +10,4 @@ aliases:
 
 | Minecraft ver | Ver          | Source                                                                                                                                                            | Repo                                                         |
 | ------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| `1.21.1`      | `2024-10-24` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui) [Modirinth](https://modrinth.com/resourcepack/colourful-containers-gui) | [GitHub](https://github.com/psdKingybu/colourful-containers) |
+| `1.21.1`      | `2024-10-24` | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui)<br>[Modirinth](https://modrinth.com/resourcepack/colourful-containers-gui) | [GitHub](https://github.com/psdKingybu/colourful-containers) |

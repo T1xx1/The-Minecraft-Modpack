@@ -5,4 +5,4 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                                         | Repo                                                   |
 | ------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| `1.21.1`      | `3.0.5` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge) [Modirinth](https://modrinth.com/mod/friends-and-foes-forge) | [GitHub](https://github.com/Faboslav/friends-and-foes) |
+| `1.21.1`      | `3.0.5` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)<br>[Modirinth](https://modrinth.com/mod/friends-and-foes-forge) | [GitHub](https://github.com/Faboslav/friends-and-foes) |

@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver      | Source                                                             | Repo       |
 | ------------- | -------- | ------------------------------------------------------------------ | ---------- |
-| `1.21.1`      | `21.1.0` | [CurseForge]() [Modirinth](https://modrinth.com/mod/straw-statues) | [GitHub]() |
+| `1.21.1`      | `21.1.0` | [CurseForge]()<br>[Modirinth](https://modrinth.com/mod/straw-statues) | [GitHub]() |
 
 | Dependencies                    |
 | ------------------------------- |

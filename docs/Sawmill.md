@@ -5,7 +5,7 @@
 
 | Minecraft ver | Ver     | Source                                                                                                                     | Repo                                               |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| `1.21.1`      | `1.5.9` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sawmill) [Modirinth](https://modrinth.com/mod/universal-sawmill) | [GitHub](https://github.com/MehVahdJukaar/sawmill) |
+| `1.21.1`      | `1.5.9` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sawmill)<br>[Modirinth](https://modrinth.com/mod/universal-sawmill) | [GitHub](https://github.com/MehVahdJukaar/sawmill) |
 
 | Dependencies                        |
 | ----------------------------------- |
