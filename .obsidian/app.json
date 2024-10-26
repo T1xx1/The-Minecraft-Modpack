@@ -1,6 +1,6 @@
 {
   "foldHeading": false,
-  "trashOption": "local",
+  "trashOption": "system",
   "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
