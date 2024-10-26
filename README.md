@@ -33,6 +33,7 @@
 |                            [Sawmill](docs/Sawmill.md)                            |
 |             [Simple Grass Flowers](docs/Simple%20Grass%20Flowers.md)             |
 |                     [Straw Statues](docs/Straw%20Statues.md)                     |
+|           [Unique Enchanted Books](docs/Unique%20Enchanted%20Books.md)           |
 |              [Universal Bone Meal](docs/Universal%20Bone%20Meal.md)              |
 |            [What are they up to](docs/What%20are%20they%20up%20to.md)            |
 |                   [Xaero's Minimap](docs/Xaero's%20Minimap.md)                   |
