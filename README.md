@@ -32,6 +32,7 @@
 |                [Just Enough Items](docs/Just%20Enough%20Items.md)                |
 |                            [Sawmill](docs/Sawmill.md)                            |
 |                    [Serene Seasons](docs/Serene%20Seasons.md)                    |
+|                           [Shields+](docs/Shields+.md)                           |
 |             [Simple Grass Flowers](docs/Simple%20Grass%20Flowers.md)             |
 |                     [Straw Statues](docs/Straw%20Statues.md)                     |
 |           [Unique Enchanted Books](docs/Unique%20Enchanted%20Books.md)           |
