@@ -39,4 +39,3 @@
 |                   [Xaero's Minimap](docs/Xaero's%20Minimap.md)                   |
 |                [Xaero's World Map](docs/Xaero's%20World%20Map.md)                |
 
-31 mods
