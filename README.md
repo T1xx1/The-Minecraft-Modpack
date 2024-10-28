@@ -34,6 +34,7 @@
 |                    [Serene Seasons](docs/Serene%20Seasons.md)                    |
 |                           [Shields+](docs/Shields+.md)                           |
 |             [Simple Grass Flowers](docs/Simple%20Grass%20Flowers.md)             |
+|                             [Sodium](docs/Sodium.md)                             |
 |                     [Straw Statues](docs/Straw%20Statues.md)                     |
 |           [Unique Enchanted Books](docs/Unique%20Enchanted%20Books.md)           |
 |              [Universal Bone Meal](docs/Universal%20Bone%20Meal.md)              |
